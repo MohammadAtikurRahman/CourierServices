@@ -113,5 +113,4 @@ LinkedIn: https://www.linkedin.com/company/material-design-for-bootstrap
 
 # Visit our website: https://mdbootstrap.com/
 
-http://www.darcelcourier.com/
-https://mohammadatikurrahman.github.io/DarcelCourierServices/
+
